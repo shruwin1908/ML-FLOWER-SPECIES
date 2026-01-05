@@ -42,4 +42,10 @@ To predict the species of a flower based on its physical features such as sepal 
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structur
+ML-FLOWER-SPECIES/
+│
+├── flower_ml_db.py
+├── flowers.db
+├── requirements.txt
+└── README.md
